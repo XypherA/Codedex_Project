@@ -1,37 +1,43 @@
-🌀 While Loop Practice
-Countdown:
-Use a while loop to print numbers from 10 down to 1.
+# 🐱 Codedex Projects
 
-Sum of numbers:
-Use a while loop to calculate the sum of numbers from 1 to 50 and print the result.
+This repository contains all of my **Codedex projects** — small apps and exercises I’ve built while learning web development.  
+It’s meant to track my progress, practice coding, and showcase what I’ve learned.
 
-Even numbers only:
-Use a while loop to print only even numbers from 2 to 20.
+---
 
-Guess the number:
-Use a while loop that keeps asking the user to guess a secret number (use prompt() for browser) until they guess it correctly.
+## 📂 Projects Included
+- 🌤️ **Weather App** — Fetches real-time weather data from OpenWeather API.  
+- ...and more as I continue my learning journey.
 
-Binary conversion:
-Use a while loop to convert a given number (e.g., 23) into binary (like the question we discussed earlier).
+---
 
-🔁 For Loop Practice
-Multiplication table:
-Use a for loop to print the multiplication table for 7 (from 7 x 1 to 7 x 10).
+## 🚀 How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/codedex-projects.git
+Open the project folder you want to try:
 
-Sum of squares:
-Use a for loop to calculate the sum of the squares of numbers from 1 to 10.
+bash
+Copy code
+cd codedex-projects/weather-app
+Open the index.html file in your browser.
 
-Reverse countdown:
-Use a for loop to print numbers from 50 down to 0, stepping by 5.
+🔑 Notes
+Some projects (like the Weather App) use an API key.
+For safety, the real key is not included. Replace YOUR_API_KEY_HERE in the code with your own key.
 
-Factorial calculation:
-Use a for loop to calculate the factorial of a given number (e.g., 5! = 5×4×3×2×1).
+📖 About Codedex
+Codedex is an interactive platform where I’m learning coding through projects, quests, and challenges.
 
-FizzBuzz:
-Use a for loop to print numbers from 1 to 20, but:
+✨ Future Plans
+Add more projects as I progress.
 
-If the number is divisible by 3, print "Fizz"
+Polish existing projects with better UI and features.
 
-If divisible by 5, print "Buzz"
+Turn this into a coding portfolio.
 
-If divisible by both, print "FizzBuzz" instead of the number.
+🧑‍💻 Author
+GitHub: XypherA
+
+Portfolio: Coming soon...
+

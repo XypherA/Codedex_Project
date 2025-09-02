@@ -14,7 +14,7 @@ It’s meant to track my progress, practice coding, and showcase what I’ve lea
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/codedex-projects.git
+   git clone https://github.com/XypherA/Codedex_Project.git
 Open the project folder you want to try:
 
 bash

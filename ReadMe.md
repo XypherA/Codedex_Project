@@ -6,7 +6,8 @@ It’s meant to track my progress, practice coding, and showcase what I’ve lea
 ---
 
 ## 📂 Projects Included
-- 🌤️ **Weather App** — Fetches real-time weather data from OpenWeather API.  
+- 🌤️ **Weather App** — Fetches real-time weather data from OpenWeather API. 
+    Link to my Weather App - https://xyphera.github.io/Codedex_Project/weather-app/
 - ...and more as I continue my learning journey.
 
 ---
